@@ -7,7 +7,7 @@ Started from this Gist: https://gist.github.com/boundaryfunctions/2020943
 
 -----
 
-Goals:
+### Goals
 - Support for Linux and Mac (maybe Windows).
 - Read mouse position
 - Move mouse position
